@@ -105,7 +105,7 @@ body {
 }
 
 .card {
-    width: 400px;
+    width: 2500px;
     padding: 10px;
     border-radius: 10px;
     background-color: #252525;
@@ -337,7 +337,7 @@ body {
 }
 
 
-@media (max-width: 1400px) {
+@media (max-width: 1270px) {
     .left {
         position: absolute;
         left: -133%;
